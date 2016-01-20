@@ -1,4 +1,4 @@
-# jstest
+# jstest 单元测试学习笔记
 Unit test learning book
 
 Mocha + Chai

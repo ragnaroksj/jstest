@@ -17,7 +17,7 @@ expect: 头部是expect方法,尾部是equal,a/an,ok,match等。两者之间使�
 
 
 常用执行
-mocha执行test子目录里面第一层鹅测试用例。
+mocha执行test子目录里面第一层测试用例。
 可以用－－recursive
 通配符执行多个文件
 mocha test/*.js
